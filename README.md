@@ -20,9 +20,4 @@ Software Development
 Loading...
 
 🎓 Education
-BSc in Public Management
-BSc in Accounting
-BSc in Computer Science - in progress
-BSc in Data Science - in progress
-Specialization in Government Auditing
-Specialization in Public Accounting
+BSc in Public Management | BSc in Accounting | BSc in Computer Science - in progress | BSc in Data Science - in progress | Specialization in Government Auditing | Specialization in Public Accounting |
